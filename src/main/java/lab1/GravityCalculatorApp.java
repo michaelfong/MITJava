@@ -5,7 +5,7 @@ package lab1;
  */
 import java.util.Scanner;
 
-public class GravityCalculatorMain {
+public class GravityCalculatorApp {
 
     public static void main(String[] arguments) {
 
